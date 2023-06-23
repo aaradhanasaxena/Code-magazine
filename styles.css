@@ -1,0 +1,98 @@
+*{  
+    box-sizing: border-box;
+}
+body{
+    margin: 0 200px 0 300px;
+    font-family:sans-serif;
+}
+hr{
+    margin: 0 -200 0 -300px;
+    height: 10px;
+    background-color:rgb(9, 187, 247);
+    
+}
+nav{
+    background-color: rgb(237, 237, 250);
+    margin-right:300px;
+    padding: 15px 20px;
+}
+h1{
+    font-size:2.5rem;
+    color:rgb(9, 187, 247);
+}
+h2{
+    font-size: 2rem;
+    color:rgb(9, 187, 247);
+}
+h3{
+    margin-top: 0;
+    font-size: 1.5rem;
+    color:rgb(9, 187, 247);
+}
+a{
+    color:rgb(9, 187, 247);
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+.nav-link{
+    margin-left:20px;
+}
+p{
+    line-height: 1.5;
+    font-size: 1.3rem;
+    color: rgb(107, 96, 96);
+    text-align:justify;
+}
+li{
+    line-height: 1.5;
+    font-size: 1.3rem;
+    color: rgb(107, 96, 96);
+}
+.girl-pic{
+    height: 50px;
+    width: 50px;
+}
+.post{
+    height:450px;
+    width: 800px;
+}
+.rel-post{
+    height: 80px;
+    width:80px;
+}
+.heading{
+    margin-left:125px;
+    color: rgb(41, 38, 38);
+    margin-top: 35px;
+    margin-bottom: -5px;
+}
+.author{
+    color:black;
+    font-weight: bold;
+    line-height:0.5;
+}
+.margins{
+    margin-top: 45px;
+    margin-left: 0;
+    margin-right:0;
+
+}
+a:hover{
+    color:red;
+    text-decoration: underline;
+}
+div{
+    background-color: rgb(237, 237, 250);
+    margin-right: 400px;
+}
+button{
+    float:right;
+    margin-right:-560px;
+    padding: 18px;
+    font-size: 1.5rem;
+    margin-bottom:50px;
+    cursor: pointer;
+}
+footer{
+    margin-top:50px;
+}
